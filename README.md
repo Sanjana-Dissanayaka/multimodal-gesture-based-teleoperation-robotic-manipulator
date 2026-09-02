@@ -34,7 +34,9 @@ Develop and validate a low-cost hybrid teleoperation system that integrates an *
 
 ## System Architecture
 
-<img width="1774" height="887" alt="ChatGPT Image Sep 2, 2026, 10_48_02 AM" src="https://github.com/user-attachments/assets/bece2b01-d3a6-4fce-9464-0dbbd2aaeefe" />
+<img width="660" height="333" alt="Screenshot 2026-09-02 102238" src="https://github.com/user-attachments/assets/135d5b05-dc5c-4ca1-9b48-9d6a020040e9" />
+
+<img width="503" height="241" alt="Screenshot 2026-09-02 105303" src="https://github.com/user-attachments/assets/8a636d9c-6339-4043-a1ad-b81ad12c73a1" />
 
 
 The current teleoperation pipeline can be represented as:
@@ -113,6 +115,8 @@ Used to detect:
 ---
 
 ## 2. Sensor Acquisition and Stabilization
+
+<img width="331" height="257" alt="Screenshot 2026-08-03 135412" src="https://github.com/user-attachments/assets/572c5d26-74a0-4341-bb63-75eda39b0b04" />
 
 Raw sensor data can contain noise, offsets, and small fluctuations.
 
