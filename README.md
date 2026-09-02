@@ -118,9 +118,7 @@ Used to detect:
 
 ## 2. Sensor Acquisition and Stabilization
 
-
-<img width="416" height="293" alt="Screenshot 2026-09-02 105620" src="https://github.com/user-attachments/assets/8d4c50ce-f552-4002-8a8b-93ff702514ac" />
-
+<img width="416" height="273" alt="Screenshot 2026-09-02 105620" src="https://github.com/user-attachments/assets/dcbee94a-3d35-4dd1-a81f-8df1e709f405" />
 
 Raw sensor data can contain noise, offsets, and small fluctuations.
 
