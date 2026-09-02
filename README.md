@@ -33,7 +33,9 @@ Develop and validate a low-cost hybrid teleoperation system that integrates an *
 ---
 
 ## System Architecture
-<img width="660" height="333" alt="Screenshot 2026-09-02 102238" src="https://github.com/user-attachments/assets/62be03dd-69fc-470f-a8f6-e1de5f6c68d2" />
+
+<img width="1774" height="887" alt="ChatGPT Image Sep 2, 2026, 10_48_02 AM" src="https://github.com/user-attachments/assets/bece2b01-d3a6-4fce-9464-0dbbd2aaeefe" />
+
 
 The current teleoperation pipeline can be represented as:
 
