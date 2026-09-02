@@ -33,6 +33,7 @@ Develop and validate a low-cost hybrid teleoperation system that integrates an *
 ---
 
 ## System Architecture
+<img width="660" height="333" alt="Screenshot 2026-09-02 102238" src="https://github.com/user-attachments/assets/62be03dd-69fc-470f-a8f6-e1de5f6c68d2" />
 
 The current teleoperation pipeline can be represented as:
 
